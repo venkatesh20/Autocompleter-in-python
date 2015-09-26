@@ -3,7 +3,7 @@ Repository containing auto-completer script in python
 This script takes in a text file containing phrases in any language and asks the user to enter a prefix. It then provides suggestions 
 closely match the provided prefix. It can be invoked as follows:
 
-python autocompleter.py <path to text file containing phrases>
+python autocompleter.py "path to text file containing phrases"
 
 eg: python autocompleter.py /home/james/Desktop/data.txt
 
