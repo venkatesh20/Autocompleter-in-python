@@ -93,5 +93,7 @@ Cleaning up extra files ....
 
 Cleanup done. Exiting the program.
 
+Please press the ENTER key after entering the prefix to see suggestions in all cases.
+
 Questions or comments can be directed to venkatesh201988@gmail.com
 
